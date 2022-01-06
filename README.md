@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sugam Agarwal 
-- 👀 I’m interested in learning Web Development 
-- 🌱 I’m currently learning Front-End Developement 
+- 👀 Currently Learning Java 
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 You can find me on twitter @eddards1947 
 
