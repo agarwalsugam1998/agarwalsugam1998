@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sugam Agarwal 
-- 👀 Currently Learning Java 
+- 👀 Data Engineering 
 - 💞️ I’m looking to collaborate on open source projects 
 
 
